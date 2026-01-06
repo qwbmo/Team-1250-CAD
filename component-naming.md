@@ -22,7 +22,7 @@ Custom components created by the team should follow the pattern:
 Why go to all of this trouble?
 - The year field allows us to track parts over time.
 - The subsystem field helps everyone understand the basic context.
-- The number field makes it unique.
+- The number field makes it unique and ties to the GitHub Issue history for the part.
 - The something descriptive field makes it friendly for humans.
 
 ---
