@@ -1,8 +1,8 @@
 [Home](ReadMe.md)
 
-# This document details the Team 1250 CAD naming comventions for components and files.
+This document details the Team 1250 CAD naming comventions for components and files.
 
-## Team Components
+# Team Components
 
 Custom components created by the team should follow the pattern:
 
@@ -32,37 +32,7 @@ Why go to all of this trouble?
 
 ---
 A note on where parts should live:
-`CNC` parts require `CAM` (computer aided manufacturing) tool paths that live within the Fusion files.  These can pose processing challenges when part of a large assebly. Therefore, `CNC` parts should always be external linked parts, not local parts within an assembly.
-`FDM` parts are easy to export, so they may be kept local (probably easiest) or may be external
-`DWG` parts require a drawing to be created, but do not pose processing issues, so they may be kept local (probably easiest) or may be external
----
-
-## COTS Components
-Generally, COTs components already have a name when they are downloaded and saved.
-
-### AndyMark
-
-### Last Anvil
-
-### RevRobotics
-
-### The Thrifty Bot
-
-### Swyft Robotics
-
-### VexPro
-No longer online... so you won't be adding anything new.
-
-### West Coast Products
-These are named WCP- followed by the part number.
-
-`WCP-1191.step`
-
-Not very descriptive, but they are at least unique and identify the source.  
-You should add some description when you import it.  
-
-`WCP-1191 Gear, 20DP, 34T, SplineXL bore`
-
-
-
+- `CNC` parts require `CAM` (computer aided manufacturing) tool paths that live within the Fusion files.  These can pose processing challenges when part of a large assebly. Therefore, `CNC` parts should always be external linked parts, not local parts within an assembly.
+- `FDM` parts are easy to export, so they may be kept local (probably easiest) or may be external.
+- `DWG` parts require a drawing to be created, but do not pose processing issues, so they may be kept local (probably easiest) or may be external.
 
