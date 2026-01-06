@@ -6,7 +6,7 @@ This document details the Team 1250 CAD naming comventions for components and fi
 
 Custom components created by the team should follow the pattern:
 
-`FRC1250-<YY>-<SUBSYSTEM>-<###> <SOMETHING-DESCRIPTIVE>`
+`FRC1250-<YY>-<SUBSYSTEM>-<####> <SOMETHING-DESCRIPTIVE>`
 ...where:
 - `<YY>` is the last two didgits of the competition year (example: 2026 -> `26`)
 - `<SUBSYSTEM>` is the code name for the subsystem:
@@ -16,7 +16,7 @@ Custom components created by the team should follow the pattern:
   - `INTAKE`
   - `CLIMB`
   - etc...
-- `<###>` a unique, mostly sequential 3-digit number for the specific parts in the subsystem
+- `<###>` a unique, mostly sequential 4-digit number for the specific parts in the subsystem
 - `<SOMETHING-DESCRIPTIVE>` some text that describes the part, because the numbers can be hard to remember
 
 Why go to all of this trouble?
