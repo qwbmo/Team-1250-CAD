@@ -5,4 +5,4 @@ Team 1250 CAD Repository
 [Component Naming Standards](component-naming.md)
 
 ## Projects
-- [2026 - Rebuilt](https://github.com/users/qwbmo/projects/5)
+- [2026 - Rebuilt](https://github.com/orgs/FRC-1250/projects/15)
