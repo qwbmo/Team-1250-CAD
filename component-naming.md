@@ -1,4 +1,4 @@
-[Home](ReadMe.md)
+[Home](README.md)
 
 This document details the Team 1250 CAD naming comventions for components and files.
 
